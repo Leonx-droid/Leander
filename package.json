@@ -1,0 +1,8 @@
+{
+  "name": "leander-search",
+  "version": "1.0.0",
+  "description": "Leander: a Google-style search engine front end with a small Node backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
